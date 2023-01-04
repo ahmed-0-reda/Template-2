@@ -380,7 +380,7 @@ header .container nav .form i {
             transform: translate(0 ,0 );
         }
         to{
-            transform: translateY(100px);
+            transform: translateY(80px);
         }      
     }
     @keyframes text-background {
